@@ -5,6 +5,6 @@
 	},
 	"dependencies": {
 		"aiur": "..",
-		"prismjs": "^1.17.0"
+		"prismjs": "^1.20.0"
 	}
 }
