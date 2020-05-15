@@ -22,7 +22,7 @@
 		"complate-stream": "^0.16.9",
 		"donny": "^0.1.0",
 		"faucet-pipeline-core": "^1.4.0",
-		"faucet-pipeline-js": "^2.1.1",
+		"faucet-pipeline-js": "^2.1.3",
 		"faucet-pipeline-jsx": "^2.1.1",
 		"faucet-pipeline-sass": "^1.4.0",
 		"faucet-pipeline-static": "^1.2.0",
