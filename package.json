@@ -39,7 +39,7 @@
 	"devDependencies": {
 		"eslint-config-fnd": "^1.8.0",
 		"mocha": "^7.1.1",
-		"release-util-fnd": "^2.0.0",
+		"release-util-fnd": "^2.0.1",
 		"rimraf": "^3.0.2"
 	}
 }
